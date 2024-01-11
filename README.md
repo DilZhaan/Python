@@ -1,4 +1,4 @@
-# Project Title
+# HackerRank challenges
 
 This repository contains my solutions to HackerRank challenges and practice files in Python.
 
